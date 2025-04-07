@@ -1,0 +1,10 @@
+# ninja log v6
+31	36736	1743226703785517000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query.o	91abcb6acebc3647
+59	37169	1743226703812381000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points.o	32afff14b303973c
+47	37533	1743226703801244000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/bindings.o	84c0cfad00c2ed06
+138	37549	1743226703891424000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling.o	db94606d83b203b4
+103	38182	1743226703856507000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate.o	369c64d3f93ceb9f
+44	91433	1743226703797726000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/ball_query_gpu.o	1f21d96ca59e44cb
+117	93925	1743226703880550000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/interpolate_gpu.o	338e996290955d5a
+98	94063	1743226703851730000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/group_points_gpu.o	7d0071630ddc4bb3
+141	99236	1743226703894728000	/opt/data/private/Attack/IRBA/pointnet2_ops_lib/build/temp.linux-x86_64-cpython-38/pointnet2_ops/_ext-src/src/sampling_gpu.o	f6d4e02d8fb7b0be

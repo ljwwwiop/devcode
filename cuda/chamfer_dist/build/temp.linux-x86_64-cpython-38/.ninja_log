@@ -1,0 +1,5 @@
+# ninja log v6
+655	18524	1742988320285461000	/opt/data/private/Attack/IRBA/cuda/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	ebcb8797a805e937
+648	47818	1742988320280110000	/opt/data/private/Attack/IRBA/cuda/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer.o	dd1bc655d382f4a3
+37	16518	1743077816462330000	/opt/data/private/Attack/IRBA/cuda/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	8d41497df2198d5d
+37	44559	1743077844560381000	/opt/data/private/Attack/IRBA/cuda/chamfer_dist/build/temp.linux-x86_64-cpython-38/chamfer.o	5ba926b9acb33adc
